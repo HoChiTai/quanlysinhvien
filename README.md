@@ -1,7 +1,6 @@
 # Project
 
 -   Bảng thiết kế các lớp:
-    [Link bảng thiết kế class](https://drive.google.com/file/d/11JSxrB7UKw69p-p2fQTfUwzM5ABYs5nx/view?usp=share_link)
     ![exmaple](img/img.png)
 
 -   Các chức năng hiện có:
